@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 ### 🧠 Skills
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
-![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0f?logo=mathworks)
+![C](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex)
 
