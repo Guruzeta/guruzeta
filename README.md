@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Guruzeta/guruzeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,7 +44,7 @@ Here are some ideas to get you started:
 ---
 
 ### ☕ About Me
-Physicist by training, coder by craft, curious about how **complex systems learn and evolve**.
+Physicist by training, and curious about how **complex systems learn and evolve**.
 
 [🌐 Website](https://guruzeta.github.io) • [💼 LinkedIn](https://linkedin.com/in/guruzeta)
 
